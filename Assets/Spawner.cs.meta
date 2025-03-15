@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 6222ce228bd59374a9cedf85fea2c1e1
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - myCube: {fileID: 3394545134660315844, guid: ae1d8354ffd50d3498902fbec42fe6d0, type: 3}
+  - mySphere: {fileID: 4123832087608823154, guid: 8a6ddfde38132a54889410d215df6397, type: 3}
+  - myCylinder: {fileID: 1039677581283194194, guid: 4c63284f21628e44aa28b5d91af56af6, type: 3}
+  - myCamera: {fileID: 3367992479576615313, guid: d30c0645d9bb273478434cb026a564ae, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
