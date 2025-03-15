@@ -1,7 +1,7 @@
 # **Unity 3D Vision Simulation**
 
 ## **Project Overview**
-This project is a **Unity-based simulation** for D vision and sensor calibration, developed as part of the **AUSLab** research activities at **Eötvös Loránd University (ELTE)**. The primary goal is to simulate and test 3D computer Vision algorithm .
+This project is a **Unity-based simulation** for D vision and sensor calibration, developed as part of the **AUSLab** research activities at **Eötvös Loránd University (ELTE)**. The primary goal is to simulate and test 3D computer Vision algorithms .
 
  **NOTE:** The Project is still under development , Features and improvement are being actively improved.
 
